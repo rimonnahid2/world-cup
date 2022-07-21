@@ -352,7 +352,8 @@ body{
 
 
 	/* Content section */
-	.main-content{
+	.
+	-content{
 		display: block;
 		margin:0 auto;
 		text-align: center;
@@ -366,14 +367,7 @@ body{
 	    margin-bottom: 20px;
 	}
 
-
-	.main-content{
-		display: block;
-		margin:0 auto;
-		text-align: center;
-
-	}
-	.blogs{s
+	.blogs{
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 		grid-gap: 15px;
